@@ -1,7 +1,3 @@
- 
-<!-- link structure -->
-<a class="social-button instagram" href="" target="_blank" >
-
 
 Byte order mark	Encoding
 0xEF 0xBB 0xBF	UTF-8
