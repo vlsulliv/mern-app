@@ -1,0 +1,10 @@
+
+MonokaiBlack='\[\033[38;5;16m\]'
+MonokaiRed='\[\033[38;5;166m\]'
+MonokaiGreen='\[\033[38;5;64m\]'
+MonokaiYellow='\[\033[38;5;214m\]'
+MonokaiBlue='\[\033[38;5;33m\]'
+MonokaiMagenta='\[\033[38;5;125m\]'
+MonokaiCyan='\[\033[38;5;73m\]'
+MonokaiWhite='\[\033[38;5;231m\]'
+MonokaiReset='\[\033[0m\]'
